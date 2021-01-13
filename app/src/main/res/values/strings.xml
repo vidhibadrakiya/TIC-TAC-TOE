@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TIC TAC TOE</string>
+    <string name="tic_tac_toe">TIC TAC TOE</string>
+    <string name="back">background</string>
+    <string name="grid">main grid</string>
+    <string name="one">our one</string>
+    <string name="two">our two</string>
+    <string name="three">our three</string>
+    <string name="four">our four</string>
+    <string name="five">our five</string>
+    <string name="six">our six</string>
+    <string name="seven">our seven</string>
+    <string name="eight">our eight</string>
+    <string name="nine">our nine</string>
+    <string name="y">O\'s turn</string>
+    <string name="g">X\'s turn</string>
+    <string name="w">O has won the game</string>
+    <string name="Q">X has won the game</string>
+    <string name="It_is_draw">It is draw</string>
+</resources>
